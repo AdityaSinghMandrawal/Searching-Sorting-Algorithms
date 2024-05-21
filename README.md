@@ -73,4 +73,4 @@ Merge Sort is an efficient, stable, comparison-based, divide and conquer sorting
 
 1. Repository:
    ```sh
-   https://github.com/AdityaSinghMandrawal/Sorting-Algorithms.git
+   https://github.com/AdityaSinghMandrawal/Searching-Sorting-Algorithms.git
