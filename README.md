@@ -43,6 +43,7 @@ Bubble Sort is a simple sorting algorithm that repeatedly steps through the list
 Heap Sort is a comparison-based sorting technique based on a binary heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for the remaining elements.
 
 - **Complexity**: O(n log n)
+- **File**: 'HeapSort.cpp'
 
 #### Quick Sort
 Quick Sort is an efficient sorting algorithm that, like Merge Sort, is based on the divide-and-conquer principle. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
